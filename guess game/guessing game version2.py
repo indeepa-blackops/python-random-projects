@@ -3,6 +3,7 @@ welcome = """Welcome to Guess the Number!!!!
 in this game you have to guess the random number selected by computer and 
 you will have the chance to select the range between numbers and the less guesses take to 
 guess the number will win the game."""
+print(welcome)
 min_bound= int(input("enter the lowest value you would guess: "))
 max_bound =int(input("enter the highest value you would guess: "))
 secret_number = random.randint(min_bound,max_bound)
