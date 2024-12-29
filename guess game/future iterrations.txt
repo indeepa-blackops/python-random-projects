@@ -1,0 +1,7 @@
+Next Steps and Further Enhancements (For more advanced learning):
+
+Difficulty Levels: Allow the user to choose a difficulty level (easy, medium, hard),
+    which would affect the range of numbers or the number of guesses.
+High Scores: Store high scores in a file and display them to the user.
+User Interface (GUI): Create a graphical user interface using a library like Tkinter, PyQt, or Kivy.
+    This would be a significant step up in complexity but would make the game much more visually appealing.
