@@ -1,0 +1,26 @@
+Your first Python Game: Mad Libs
+A Guessing Game with Python
+Rock, Paper, Scissors
+Your first two-player Game: Tic, Tac, Toe
+Juggling with PyGame
+Crawl Wikipedia Pages with Python
+Web scraping with BeautifulSoup
+Web scraping with Selenium
+An Alarm Clock with Python GUI
+Data Science with Python
+Analyze Survey Data
+Your first web-app with Django
+Hangman Game
+Basic Calculator GUI
+Memory Puzzle Game
+Password Generator
+Text Adventure Game
+Snake Game in Python
+URL Shortening Service with Django
+Introduction to Machine Learning
+Predict Wine Quality with Machine Learning
+Bitcoin Price Notification App
+Dice Rolling Simulator
+Encoding & Decoding Messages
+Discord Bot with Python
+Secret Communication App: Hiding text in images
