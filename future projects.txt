@@ -24,3 +24,9 @@ Dice Rolling Simulator
 Encoding & Decoding Messages
 Discord Bot with Python
 Secret Communication App: Hiding text in images
+
+rock paper scissors game
+simple chatbot
+countdown timer
+simple quiz application
+tic tac toe
