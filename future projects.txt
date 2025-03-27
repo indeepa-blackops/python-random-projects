@@ -1,7 +1,7 @@
-Your first Python Game: Mad Libs
-A Guessing Game with Python
-Rock, Paper, Scissors
-Your first two-player Game: Tic, Tac, Toe
+Your first Python Game: Mad Libs  ## Done
+A Guessing Game with Python  ## Done
+Rock, Paper, Scissors   ## Done
+Your first two-player Game: Tic, Tac, Toe   ##
 Juggling with PyGame
 Crawl Wikipedia Pages with Python
 Web scraping with BeautifulSoup
